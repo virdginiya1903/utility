@@ -2,7 +2,8 @@
 ## Switch
 Конструкция switch может заменить собой несколько условий if. Вот пример обычного условия с if:
 
-`let answer;
+`
+let answer;
 
 if (num === 1) {
   answer = "One";
@@ -26,4 +27,5 @@ switch(num) {
     answer = "Nothing";
     break;
 }
-break необходим, чтобы выйти из блока switch.`
+break необходим, чтобы выйти из блока switch.
+`
