@@ -74,7 +74,4 @@ const factorial = (n) => {
 
 
 
-
-
-
 Информация взята с сайта Hexlet ru.hexlet.io
